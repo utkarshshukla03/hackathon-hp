@@ -1,6 +1,8 @@
 # HPCL Intelligent Cost Database
 ## Procurement Transformation & Digitalisation Prototype
 
+![68d13ccc60563_hp-power-lab-20](https://github.com/user-attachments/assets/abd180c7-3ed2-438a-94e0-951c3d8ebaea)
+
 ### 🎯 Mission
 Transform messy, unstructured procurement text data into a clean, intelligent cost database that enables data-driven decision-making, cost optimization, and supplier performance management.
 
