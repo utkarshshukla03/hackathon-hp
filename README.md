@@ -1,6 +1,8 @@
 # HPCL Intelligent Cost Database
 ## Procurement Transformation & Digitalisation Prototype
 
+![68d13ccc60563_hp-power-lab-20](https://github.com/user-attachments/assets/abd180c7-3ed2-438a-94e0-951c3d8ebaea)
+
 ### 🎯 Mission
 Transform messy, unstructured procurement text data into a clean, intelligent cost database that enables data-driven decision-making, cost optimization, and supplier performance management.
 
@@ -825,6 +827,40 @@ python -c "import torch; print(torch.cuda.is_available())"
 - 🔄 **Mobile Apps**: Native iOS/Android applications
 - 🔄 **Collaboration**: Real-time multi-user editing
 - 🔄 **Notifications**: Email/SMS alerts for anomalies
+
+## 👥 Team
+
+<div align="center">
+
+### Development Team
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/utkarshshukla03.png" width="100px;" alt="Utkarsh Shukla"/><br />
+<b>Utkarsh Shukla</b><br />
+<i>Full Stack Engineer</i><br />
+<a href="https://github.com/utkarshshukla03">💻</a>
+</td>
+<td align="center">
+<img src="https://github.com/5umitpandey.png" width="100px;" alt="Sumit Pandey"/><br />
+<b>Sumit Pandey</b><br />
+<i>AI/ML Engineer 1</i><br />
+<a href="https://github.com/5umitpandey">🤖</a>
+</td>
+<td align="center">
+<img src="https://github.com/ashir1s.png" width="100px;" alt="Ashirwad Sinha"/><br />
+<b>Ashirwad Sinha</b><br />
+<i>AI/ML Engineer 2</i><br />
+<a href="https://github.com/ashir1s">🤖</a>
+</td>
+
+</tr>
+</table>
+
+
+
+</div>
 
 ---
 
